@@ -1,0 +1,18 @@
+.balance-container{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.balance-title{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.balance-income{
+    color: green;
+}
+
+.balance-expenses{
+    color: red;
+}

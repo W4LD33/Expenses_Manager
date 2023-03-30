@@ -1,0 +1,8 @@
+.sort-container{
+    display: flex;
+    margin-bottom: 10px;
+}
+.sort-container h1{
+    font-size: 20px;
+    margin-right: 10px;
+}

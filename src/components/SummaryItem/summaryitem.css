@@ -1,0 +1,12 @@
+.summary-cell {
+    border: 1px solid black;
+    vertical-align: middle;
+}
+
+.expense{
+    color: red;
+}
+
+.income{
+    color: green;
+}

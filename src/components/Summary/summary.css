@@ -1,0 +1,59 @@
+.summary-title{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.summary-header {
+    border: 1px solid black;
+    vertical-align: middle;
+    width: 15%;
+}
+
+.summary-table{
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.summary-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.summary-form div {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.summary-form label {
+    text-align: center;
+}
+
+.summary-form input {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 300px;
+}
+
+.summary-form button{
+    width: 100%;
+    height: 40px;
+}
+
+.transaction-container {
+    width: 0; /* set a width */
+    margin: 0 auto; /* center horizontally */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
